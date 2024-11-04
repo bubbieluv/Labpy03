@@ -99,7 +99,7 @@ Program ini mensimulasikan perhitungan laba bulanan dari sebuah investasi dengan
 
 Latihan 3
 
-
+![Screenshot (35)](https://github.com/user-attachments/assets/4e02900d-8ae1-44d3-bdca-c3ab0a0ca2e1)
 
 alur algoritma dari kode tersebut:
 
