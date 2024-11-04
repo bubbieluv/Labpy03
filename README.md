@@ -45,7 +45,7 @@ Program ini pada dasarnya membangkitkan N buah angka random antara 0-1, namun ha
 
 Latihan 2
 
-
+![Screenshot (34)](https://github.com/user-attachments/assets/c9fb7e57-8312-4ee8-b45c-18177cf6fe69)
 
 Penjelasan Alur algoritma pada program diatas:
 
