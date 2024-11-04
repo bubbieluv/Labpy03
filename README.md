@@ -3,7 +3,7 @@
 
 Latihan 1
 
-
+![Screenshot (33)](https://github.com/user-attachments/assets/8ba9708c-fa99-44de-941b-7b6f8adc418f)
 
 Penjelasan Alur algoritma pada program diatas:
 
